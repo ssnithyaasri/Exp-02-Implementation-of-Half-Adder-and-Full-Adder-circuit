@@ -60,7 +60,9 @@ endmodule
 ```
 
 ### TRUTH TABLE 
+
 Logic symbol & Truthtable
+
 ![output](h1.png)
 ![output](f1.png)
 
